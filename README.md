@@ -1,1 +1,3 @@
-# Clothes-store
+# Responsive Clothing Website
+
+### Responsive Clothing Website
